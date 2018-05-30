@@ -33,7 +33,7 @@ Pin 7 and 11 are connected to positive and negative pin of motor1(used to open b
 
 Pin 12 and 13 are connected to positive and negative pin of motor1(used to open bin).
 
-pin 21,22,23,24,26 and 29 are used to connect LCD to raspberry pi where last 4 pins are used as data pins in LCD.
+pin 21, 22, 23, 24, 26 and 29 are used to connect LCD to raspberry pi where last 4 pins are used as data pins in LCD.
 
 pin 40 is connected to LDR sensor.
 
